@@ -1,70 +1,70 @@
-# WELCOME EVERYBODY!
+# BEM-VINDO A TODOS!
 
 <img src="./images/welcome.jpeg" alt="drawing" width="500"/>
 
-If you're seeing this message, you have arrived at the very first part of the Beginner Cadence Course. WELCOME! My name is Jacob Tucker, and I will give a brief introduction of the course and what you can expect.
+Se você está vendo esta mensagem, você chegou à primeira parte do Curso de Cadência para Iniciantes. RECEBER! Meu nome é Jacob Tucker, e farei uma breve introdução do curso e o que você pode esperar.
 
-# *Want to watch a Welcome Video instead of reading this text? You can watch <a href="https://www.youtube.com/watch?v=JBtmLjZBR6M" target="_blank">here</a>.*
+# *Quer assistir a um vídeo de boas-vindas ao invés de ler este texto? Você pode assistir <a href="https://www.youtube.com/watch?v=JBtmLjZBR6M" target="_blank">aqui</a>.*
 
-## "What will this course look like?"
+## "Como será este curso?"
 
 <img src="./images/course.png" alt="drawing" width="500"/>
 
-In this course, you will learn the basic Cadence concepts needed to deploy your own contracts. Specifically, you will learn how to code out your own NFT contract by the end of this course.
+Neste curso, você aprenderá os conceitos básicos do Cadence necessários para implantar seus próprios contratos. Especificamente, você aprenderá como codificar seu próprio contrato NFT até o final deste curso.
 
-The lessons will be split into "chapters," and chapters will be split into "days." I did it this way so you can manage your time and progress through the course as you like. Do not feel pressured to do this every day. Do it at your own pace and have fun with it! It will always be here :)
+As lições serão divididas em "capítulos" e os capítulos serão divididos em "dias". Fiz desta forma para que você possa gerenciar seu tempo e progredir no curso como quiser. Não se sinta pressionado a fazer isso todos os dias. Faça no seu próprio ritmo e divirta-se! Estará sempre aqui :)
 
-Here's an overview of what this will look like:
-- Lessons split into days
-- Written & video content associated with each day. The videos will be from my [YouTube Channel](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw).
-- Quests to complete (if you would like to. This is not necessary)
-- A completion certificate if you have completed all the quests. This will be proof that you have significant Cadence knowledge, and you will be able to show it to whoever you like as proof of expertise. Or just for fun! :D
+Aqui está uma visão geral de como isso será:
+- Aulas divididas em dias
+- Conteúdo escrito e em vídeo associado a cada dia. Os vídeos serão do meu[YouTube Channel](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw).
+- Missões para completar (se você quiser. Isso não é necessário)
+- Um certificado de conclusão se você completou todas as missões. Isso será a prova de que você possui um conhecimento significativo da Cadence e poderá mostrá-lo a quem quiser como prova de experiência. Ou apenas por diversão! :D
 
-I would like to be very clear that how you learn from this course is completely up to you. If you'd like to just watch the videos, you can do that. If you only want to read the text, you can do that. If you want to skip right to the quests, you can do that. Note that you will only recieve the certificate of completion if you submit all the quests.
+Eu gostaria de deixar muito claro que como você aprende com este curso é completamente com você. Se você quiser apenas assistir aos vídeos, você pode fazer isso. Se você quiser apenas ler o texto, você pode fazer isso. Se você quiser pular direto para as missões, você pode fazer isso. Observe que você só receberá o certificado de conclusão se enviar todas as missões.
 
-## "What do I need ahead of time?"
+## "Chapéu eu preciso antes do tempo?"
 
-Nothing.
+Nada.
 
-In order to complete this course, you need to know absolutely nothing about coding. I included Chapter 1.5 that teaches you the basics of computer programming. 
+Para concluir este curso, você precisa saber absolutamente nada sobre codificação. Incluí o Capítulo 1.5 que ensina os fundamentos da programação de computadores. 
 
-**Although Chapter 1.5 is a great introduction to programming, if you have never written code before, you may also want to do some outside learning before this course, because it can get complicated very quick. It is impossible to learn how to Code by watching tutorials/reading articles. You must mess up on your own to make true progress.**
+**Embora o Capítulo 1.5 seja uma ótima introdução à programação, se você nunca escreveu código antes, você também pode querer fazer algum aprendizado externo antes deste curso, porque pode ficar complicado muito rápido. É impossível aprender a codificar assistindo a tutoriais/lendo artigos. Você deve errar por conta própria para fazer um verdadeiro progresso.**
 
-If you would to learn a similar language to Cadence to get a good grasp of how to program, I would suggest trying to learn the basics of Javascript to get some programming fundamentals down. Knowing Javascript will be benefitial, however it is not necessary. 
+Se você quiser aprender uma linguagem semelhante ao Cadence para ter uma boa compreensão de como programar, sugiro tentar aprender o básico de Javascript para obter alguns fundamentos de programação. Conhecer Javascript será benéfico, porém não é necessário.
 
-*I will introduce you to all the tools and programming concepts necessary, even if you are not a developer.*
+*Vou apresentá-lo a todas as ferramentas e conceitos de programação necessários, mesmo que você não seja um desenvolvedor.*
 
-## "What are quests?"
+## "O que são missões?"
 
 <img src="./images/quests.png" alt="drawing" width="300"/>
 
-You do not have to do quests to learn all the material. However, they will help your understanding, and if you'd like a certificate of completion, you must complete them.
+Você não precisa fazer missões para aprender todo o material. No entanto, eles ajudarão sua compreensão e, se você quiser um certificado de conclusão, deverá preenchê-los.
 
-There will be quests associated with each day. They will test your understanding of the concepts that are in that day's content. 
+Haverá missões associadas a cada dia. Eles testarão sua compreensão dos conceitos que estão no conteúdo daquele dia.
 
-### How to Submit Quests
+### Como enviar missões
 
-When you finish a quest, please store all your quests together. Then, when you want me to review them, you can send me a link to all of your quests and tell me which day you'd like me to review.
+Quando você terminar uma missão, guarde todas as suas missões juntas. Então, quando você quiser que eu as revise, você pode me enviar um link para todas as suas missões e me dizer qual dia você quer que eu revise.
 
-If you are ready for me to see one of your quests to review it, please message in the [Emerald City DAO Discord](https://discord.gg/z6zgjr7HEm) (the #quest-submissions channel). Once you do that, I will personally review your submissions, give you valuable insight on what you could improve, and mark it as complete.
+Se você está pronto para eu ver uma de suas missões para revisá-la, por favor, envie uma mensagem no [Emerald City DAO Discord](https://discord.gg/z6zgjr7HEm) (o canal #quest-submissions). Depois de fazer isso, revisarei pessoalmente seus envios, fornecerei informações valiosas sobre o que você pode melhorar e marcarei como concluído.
 
-*Note: The Emerald City DAO is the first DAO on the Flow Blockchain. I founded it in November 2021 and it has some amazing people in it! We are dedicated to teaching people all about Flow and Cadence, as well as building the tooling for all DAOs on Flow. If you'd like to learn more about it or learn how to get involved, please join our [Discord](https://discord.gg/emeraldcity).*
+*Nota: O Emerald City DAO é o primeiro DAO no Flow Blockchain. Eu a fundei em novembro de 2021 e tem pessoas incríveis! Dedicamo-nos a ensinar às pessoas tudo sobre Flow e Cadence, além de criar as ferramentas para todos os DAOs no Flow. Se você quiser saber mais sobre isso ou saber como se envolver, por favor, junte-se ao nosso [Discord](https://discord.gg/emeraldcity).*
 
-## "When can I start?"
+## "Quando posso começar?"
 
-Whenever you want my friend! :)
+Sempre que quiser meu amigo! :)
 
-You can start the first day [here](https://github.com/emerald-dao/beginner-cadence-course/tree/main/chapter1.0/day1).
+Você pode começar no primeiro dia [here](https://github.com/emerald-dao/beginner-cadence-course/tree/main/chapter1.0/day1).
 
 ## <a href="https://academy.ecdao.org" target="_blank">Emerald Academy</a>
 
-This course is being used inside of <a href="https://academy.ecdao.org" target="_blank">Emerald Academy</a>, which is a series of educational resources & bootcamps created by your *best* friends at Emerald City. If you're interested in more educational content or getting involved in the broader Emerald City community, come join our <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a> :)
+Este curso está sendo usado dentro de <a href="https://academy.ecdao.org" target="_blank">Emerald Academy</a>, que é uma série de recursos educacionais e bootcamps criados por seus *melhores* amigos em Emerald City. Se você estiver interessado em mais conteúdo educacional ou se envolver na comunidade mais ampla de Emerald City, junte-se ao nosso <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a> :)
 
-## Ending Remarks
+## Observações finais
 
-If you have any feedback, please let me know. You can message me on Twitter, on Discord, on YouTube, anything. I am not smarter than any of you. If you have suggestions, I am sure they are great and I'd love to hear them.
+Se você tiver algum feedback, por favor me avise. Você pode me enviar uma mensagem no Twitter, no Discord, no YouTube, qualquer coisa. Eu não sou mais inteligente do que nenhum de vocês. Se você tiver sugestões, tenho certeza que são ótimas e adoraria ouvi-las.
 
-Feel free to reach out to me on any of these platforms:
+Sinta-se à vontade para entrar em contato comigo em qualquer uma dessas plataformas:
 
 [Twitter](https://twitter.com/jacobmtucker)
 
