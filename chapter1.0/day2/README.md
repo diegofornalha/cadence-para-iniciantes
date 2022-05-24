@@ -1,63 +1,64 @@
-# Chapter 1 - Day 2 - The Flow Blockchain & Cadence
+# Capítulo 1 - Dia 2 - Flow Blockchain & Cadence
 
-Yo yo yo! It's meeeeee! Jacob here. Hello. Now that we learned what the Blockchain is, Day 2 will cover why we have decided to learn the Flow Blockchain and how it compares to other Blockchains out there.
+Falaaa pessoal! Agora que aprendemos o que é Blockchain, no Dia 2 vamos falar por que decidimos aprender Flow Blockchain e como comparar com outras blockchains.
 
 ## Video
 
-If you'd like to learn with a video, you can do that from the link below.
+Se voce prefere aprender com video, pode acessar o link abaixo.
 
-[Introduction to Flow and Cadence](https://www.youtube.com/watch?v=iVevnipJbHo)
+[Introducao a Flow e Cadence](https://www.youtube.com/watch?v=_aC4lQ8ICJg)
 
-## The Flow Blockchain
+## Flow Blockchain
 
 <img src="../../images/flowb.png" alt="drawing" width="500"/>
 
-The Flow Blockchain is the best. Boom! I said it.
+Flow Blockchain é a melhor. Boom! Está dito.
 
-### Little History Lesson
-
+### Breve História
 
 <img src="../../images/cryptokitty.png" alt="drawing" width="200"/>
 
-The Flow Blockchain is relatively new. I would say it did not become well known until the Summer of 2020 when the Flow team started to show it to the world and people became interested. Dapper Labs, the company that owns Flow, had originally created the famous [CryptoKitties DApp](https://www.cryptokitties.co/) which grew to insane levels of popularity during previous years. In fact, I would argue CryptoKitties was one of the first "blockchainy" things that the world actually adopted, which was a huge deal for the industry. 
+Flow Blockchain é relativamente nova. Eu diria que não se tornou conhecido até o verão de 2020, quando a equipe Flow começou a mostrá-lo ao mundo e as pessoas se interessaram. A Dapper Labs, a empresa proprietária da Flow, criou originalmente o famoso [CryptoKitties DApp](https://www.cryptokitties.co/) que cresceu para níveis insanos de popularidade nos anos anteriores. Na verdade, eu diria que o CryptoKitties foi uma das primeiras coisas "blockchainy" que o mundo realmente adotou, o que foi um grande negócio para a indústria.
 
-After Dapper Labs had immense success with CryptoKitties, which was on Ethereum, they also began to see some issues with both Ethereum and Solidity, which is the Smart Contract programming language for many Blockchains on the Ethereum Virtual Machine (EVM). Thus, Cadence was born.
+Depois que o Dapper Labs teve imenso sucesso com o CryptoKitties, que estava no Ethereum, eles também começaram a ver alguns problemas com o Ethereum e o Solidity, que é a linguagem de programação Smart Contract para muitos Blockchains na Ethereum Virtual Machine (EVM). Assim nasceu a Cadence.
 
-### Facts about Flow
+### Fatos sobre Flow
 
-- It is much, much, MUCH cheaper than Ethereum to do stuff on. As an example, on Ethereum, if you are to try and change the data on the Blockchain through a transaction (explained in day 1), it could cost on average around 80$ from personal experience. However, on Flow, they didn't even have transaction costs until around October 2021, and now, transactions cost fractions of a cent. Thus, Flow is much more approachable to build production-level DApps on for the average user.
-- It is very new, so there are still tons of things being improved upon. This means there are bound to be bugs here and there, but we will work through them together. This also means that it is the perfect opportunity to learn Flow and Cadence now.
-- There are barely any learning resources to get started on Flow. Hence, this course.
-- There have been many successful DApps on Flow, including [NBATopShot](https://nbatopshot.com/), which was (and still is) a massive success.
+- É muito, muito, MUITO mais barato que o Ethereum para fazer coisas. Exemplo, no Ethereum, se você tentar alterar os dados no Blockchain por meio de uma transação (explicada no dia 1), pode custar em média cerca de 80$ dolares. No entanto, no Flow, eles nem tinham custos de transação até outubro de 2021 e, agora, as transações custam frações de centavo. Assim, o Flow é muito mais acessível para criar DApps em nível de produção para o usuário médio.
+- É muito novo, então ainda há muitas coisas sendo aprimoradas. Isso significa que haverá bugs aqui e ali, mas vamos trabalhar com eles juntos. Isso também significa que é a oportunidade perfeita para aprender Flow e Cadence agora.
+- Quase não há recursos de aprendizado para começar a usar o Flow. Por isso, este curso.
+- Houve muitos DApps de sucesso no Flow, incluindo [NBATopShot](https://nbatopshot.com/), que foi (e ainda é) um grande sucesso.
+
 
 ## Cadence
 
 
 <img src="../../images/cadence.png" alt="drawing" width="600"/>
 
-Cadence is the Smart Contract programming language for the Flow Blockchain. That is, the code you will be writing to make Smart Contracts in this course will be in Cadence.
+Cadence é a linguagem de programação Smart Contract para o Flow Blockchain. Ou seja, o código que você escreverá para fazer Smart Contracts neste curso estará no Cadence.
 
-Because Flow was largely founded to address some of the issues on Ethereum, the foundational elements of Cadence are rather responses/improvements (some would argue against this, but take it as you will) to Solidity. These are listed below.
+Como o Flow foi amplamente fundado para resolver alguns dos problemas do Ethereum, os elementos fundamentais do Cadence são respostas/melhorias (alguns argumentariam contra isso, mas aceitem como quiserem) ao Solidity. Estes estão listados abaixo.
 
-The fundamentals, or rather, "Cadence Programming Language Pillars":
-1. **Safety and Security**: Every Smart Contract must be secure. Cadence maximizes efficiency while maintaining the highest levels of safety and security. It accomplishes this because of its insanely strong type system, separation between contracts and transactions, and Resource Oriented Programming (see #5).
-2. **Clarity**: Code should be easy to read, especially Smart Contract code so that we, as users, can verify it is safe. This is achieved by making the code declarative and allowing the developer to express their intentions directly. Cadence makes those intentions very clear by design, which, along with readability, make auditing and reviewing more efficient.
-3. **Approachability**: The way Cadence is written is very familiar to other programming languages, making it easy to transition to if you have prior experience.
-4. **Developer Experience**: The developer should be able to debug in an easy manner, understand what does where, and not feel frustrated. Cadence does this by making error messages very clear.
-5. **Resource Oriented Programming**: This is by far the most important, and will take up about 80% of our time in this course. Cadence at its core uses things called `Resources`, and they define pretty much everything we do on Flow. I will not get into this now, because we will have an entire lesson on `Resources` at some point.
+Os fundamentos, ou melhor, "Pilares da Linguagem de Programação Cadence":
+1. **Segurança e Proteção**: Todo Contrato Inteligente deve ser seguro. A Cadence maximiza a eficiência enquanto mantém os mais altos níveis de segurança e proteção. Ele consegue isso por causa de seu sistema de tipos insanamente forte, separação entre contratos e transações e Programação Orientada a Recursos (veja #5).
+2. **Clareza**: O código deve ser fácil de ler, especialmente o código do Smart Contract para que nós, como usuários, possamos verificar se é seguro. Isso é alcançado tornando o código declarativo e permitindo que o desenvolvedor expresse suas intenções diretamente. O Cadence deixa essas intenções muito claras por design, o que, juntamente com a legibilidade, torna a auditoria e a revisão mais eficientes.
+3. **Acessibilidade**: A forma como o Cadence é escrito é muito familiar para outras linguagens de programação, facilitando a transição se você tiver experiência anterior.
+4. **Experiência do desenvolvedor**: O desenvolvedor deve ser capaz de depurar de maneira fácil, entender o que faz onde e não se sentir frustrado. Cadence faz isso tornando as mensagens de erro muito claras.
+5. **Programação Orientada a Recursos**: Esta é de longe a mais importante e tomará cerca de 80% do nosso tempo neste curso. Cadence em sua essência usa coisas chamadas `Recursos`, e eles definem praticamente tudo o que fazemos no Flow. Não vou entrar nisso agora, porque em algum momento teremos uma lição inteira sobre `Recursos`.
 
-*You can view them more in-depth on the Flow website [here](https://docs.onflow.org/cadence/#cadences-programming-language-pillars).*
+*Você pode vê-los mais detalhadamente no site do Flow [aqui](https://docs.onflow.org/cadence/#cadences-programming-language-pillars).*
 
-If you do not understand these, that is perfectly fine. We will touch on these topics throughout the entire course, and you will learn why each of these is so crucial to Cadence.
+Se você não entender isso, tudo bem. Abordaremos esses tópicos ao longo de todo o curso e você aprenderá por que cada um deles é tão crucial para a Cadence.
 
-## Conclusion
 
-That about wraps things up for today! In the next day, we will start getting into some Cadence code.
+## Conclusão
 
-# Quests
+E por hoje é só! No dia seguinte, começaremos a entrar em algum código Cadence.
 
-Please feel free to answer in the language of your choice.
+# Questões
 
-1. What are the 5 Cadence Programming Language Pillars? 
+Sinta-se à vontade para responder no idioma de sua escolha.
 
-2. In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
+1. Quais são os 5 Pilares da Linguagem de Programação Cadence?
+
+2. Na sua opinião, mesmo sem saber nada sobre Blockchain ou codificação, por que os 5 Pilares podem ser úteis (você não precisa responder isso para #5)?
